@@ -1,6 +1,10 @@
 [Day 01 音标介绍](#day-01)
 
+[Day 02  i  vs i:](#day-02)
 
+[Day 03 ᴂ  vs e](#day03)
+
+[Day 04 ʌ  vs ɑː](#day04)
 
 # Day 01
 
