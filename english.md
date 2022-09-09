@@ -6,6 +6,12 @@
 
 [Day 04 ʌ  vs ɑː](#day04)
 
+[Day 05 Live Day](#day05)
+
+[Day 29   θ vs ð](# Day 29)
+
+
+
 # Day 01
 
 ------
@@ -1406,6 +1412,55 @@ transportation   1
 
 
 # Day 27 复习日
+
+
+
+# Day 28 作业日
+
+
+
+# Day 29
+
+##  θ
+
+- three          /θriː/              *num.* 三
+
+  - three-D
+
+- tooth          /tuːθ/             *n.* 牙, 齿
+
+  - teeth                tooth的复数形式
+
+  - toothy              /'tuːθɪ/         adj. 露出牙齿的；有凸牙的
+
+  - toothache       /'tuːθeɪk/       *n.* 牙痛;牙疼
+
+    - headache
+    - backache
+
+    ```
+    Ache：  一般是生理上的疼痛
+    Pain:   指的不仅是生理上的疼痛，也可以指经历上的痛苦
+    ```
+
+## ð
+
+- father             /'fɑːðə/          n. 父亲，爸爸；神父；祖先；前辈
+  - Like father , like son       有其父必有其子
+- mother           /'mʌðə/         n. 母亲；大娘；女修道院院长
+  - I learnt English at my mother's knee           我小时候就开始学英语了
+
+```
+/'mʌðə/
+```
+
+
+
+作业：
+
+ache 通常指生理上的疼痛
+
+pain: 也可以指经历上的痛苦，精神上的痛苦
 
  
 
