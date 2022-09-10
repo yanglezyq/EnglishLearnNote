@@ -10,6 +10,8 @@
 
 [Day 29   θ vs ð](#day-29)
 
+[Day 30 ʃ vs ʒ](#day-30)
+
 
 
 # Day 01
@@ -1461,6 +1463,37 @@ transportation   1
 ache 通常指生理上的疼痛
 
 pain: 也可以指经历上的痛苦，精神上的痛苦
+
+
+
+# Day 30
+
+## ʃ     狮子音
+
+- shark            /ʃɑːk/           n. 鲨鱼；骗子
+  - seashell      /'siːʃel/      n. 海贝，贝壳；海贝壳
+  - She sells seashells on the seashore
+  - The seashells she sells are seashore seashells
+- fish               /fɪʃ/              *n.* 鱼
+  - 作为一道菜，或者鱼类的时候，不可数
+  - 如果是鱼缸里有几条鱼的时候，可数
+
+## ʒ
+
+- 类似于 "ri"   强烈振动
+
+- pleasure          /'pleʒə/          n. 快乐；娱乐；希望；令人高兴的事
+
+  ```
+  May I sit here?
+  Yes, with pleasure.
+  ```
+
+作业：
+
+1,2
+
+
 
  
 
