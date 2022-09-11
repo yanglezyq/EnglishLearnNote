@@ -32,6 +32,18 @@
 
 [Day 16 ɪə vs aʊ](#day16)
 
+[Day 17 ʊə vs eə](#day-17)
+
+[Day 18 p vs b](#day-18--辅音) 
+
+[Day 19](#day-19-day-15---18-直播课)]
+
+[Day 20 复习日](#day20-复习日)
+
+[Day 21 作业日](#day-21-作业日)
+
+
+
 [Day 29   θ vs ð](#day-29)
 
 [Day 30 ʃ vs ʒ](#day-30)
