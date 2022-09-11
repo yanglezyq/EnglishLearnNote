@@ -20,6 +20,18 @@
 
 [Day 10 ʊ or u vs uː](#day10)
 
+[Day 11 aɪ vs eɪ](#day11)
+
+[Day 12 直播课](#day12--day8---day11-直播课) 
+
+[Day 13 复习日](#day-13-复习日)
+
+[Day 14 作业日](#day-14-作业课)
+
+[Day 15 ɔɪ vs əʊ](#day15)
+
+[Day 16 ɪə vs aʊ](#day16)
+
 [Day 29   θ vs ð](#day-29)
 
 [Day 30 ʃ vs ʒ](#day-30)
