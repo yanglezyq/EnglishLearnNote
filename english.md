@@ -10,7 +10,15 @@
 
 [Day 05 直播课](#day05)
 
-[Day 05]
+[Day 06 复习日](#day-06-复习日)
+
+[Day 07 作业日](#day-07-作业日)
+
+[Day 08 ə vs ɜː or ə:](#day08)
+
+[Day 09 ɒ or ɔ vs ɔː](#day09)
+
+[Day 10 ʊ or u vs uː](#day10)
 
 [Day 29   θ vs ð](#day-29)
 
