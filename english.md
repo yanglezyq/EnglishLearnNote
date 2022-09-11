@@ -1,3 +1,5 @@
+## 目录
+
 [Day 01 音标介绍](#day-01)
 
 [Day 02  i  vs i:](#day-02)
@@ -6,11 +8,15 @@
 
 [Day 04 ʌ  vs ɑː](#day04)
 
-[Day 05 Live Day](#day05)
+[Day 05 直播课](#day05)
+
+[Day 05]
 
 [Day 29   θ vs ð](#day-29)
 
 [Day 30 ʃ vs ʒ](#day-30)
+
+[Day 31 tʃ vs dʒ](#day-31)
 
 
 
@@ -391,7 +397,9 @@ sheep和 deer
 
 
 
-# Day 06 （作业日）
+# Day 06 （复习日）
+
+# Day 07 （作业日）
 
 ### [I]
 
@@ -1492,6 +1500,49 @@ pain: 也可以指经历上的痛苦，精神上的痛苦
 作业：
 
 1,2
+
+# Day 31
+
+## tʃ   吃饭音
+
+- chicken        /'tʃɪkɪn/            n. 小鸡；鸡肉；胆小鬼，懦夫
+
+  - chicken pox   水痘
+
+    > 看起来很好欺负的小疹子，一开始以为很好治愈，但是没想到传染性那么强
+
+    ```
+    chicken 也可以代表 胆小，好欺负的，软弱的 的意思
+    ```
+
+- rich              /rɪtʃ/                  adj. 富有的；肥沃的；昂贵的
+
+  - the rich
+
+  - the poor
+
+  - the old
+
+  - the young
+
+    > The: 特指那一类人
+
+## dʒ
+
+- angle          /ˈeɪndʒl/         *n.* 天使
+  - Be an angel and make me a cup of coffee.     你当个人吧 / 给我做个咖啡吧 / 你行行好吧
+- jam            /dʒæm/          *n.* 果酱,拥挤，堵塞   *vt.* 堵塞
+  - traffic jam     交通堵塞
+- bridge        /brɪdʒ/           *n.* 桥；桥梁
+  - burn your bridge / boat      破釜沉舟，背水一战
+
+作业：
+
+Be an angel and make me a cup of coffee.  
+
+你行行好吧
+
+你做个人吧
 
 
 
