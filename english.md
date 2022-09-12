@@ -50,6 +50,8 @@
 
 [Day 31 tʃ vs dʒ](#day-31)
 
+[Day 31 ts vs dz](#day-32)
+
 
 
 # Day 01
@@ -1578,5 +1580,35 @@ Be an angel and make me a cup of coffee.
 
 
 
- 
+# Day 32
+
+## ts
+
+- tow cats       /kæts/      两只小猫
+- four hats      /hæts/      四顶帽子
+
+```shell
+以 t 结尾的名词复数，复数都是 ts 结尾  # 可数名词：两个或者两个以上
+还有一类词，在直播课补充。（动词的第三人称，单数形式）
+```
+
+
+
+## dz
+
+- two cards       /kɑ:dz/        两张卡片
+- six  birds        /bɝd/          六只老鸟
+
+```
+/dz/  发音 轻、短
+/z/   发音振动更强烈
+```
+
+
+
+作业：
+
+/z/ 和 /dz/
+
+
 
