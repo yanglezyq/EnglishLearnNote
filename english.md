@@ -50,7 +50,7 @@
 
 [Day 31 tʃ vs dʒ](#day-31)
 
-[Day 31 ts vs dz](#day-32)
+[Day 32 ts vs dz](#day-32)
 
 
 
