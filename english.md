@@ -1494,10 +1494,6 @@ transportation   1
 - mother           /'mʌðə/         n. 母亲；大娘；女修道院院长
   - I learnt English at my mother's knee           我小时候就开始学英语了
 
-```
-/'mʌðə/
-```
-
 
 
 作业：
@@ -1612,3 +1608,134 @@ Be an angel and make me a cup of coffee.
 
 
 
+# Day 33 (Day29-32直播课)
+
+### θ		咬舌，区分 /s/
+
+- thin           /θɪn/              adj. 薄的；瘦的；稀薄的；微弱的
+
+  - I am in a thin time these days   这段时间我很忙，=> 我手头有点紧
+  - Rise and shin.      该起床了
+
+- path         /pɑːθ/            n. 小路；道路；轨道
+
+  ```shell
+  path     小路
+  road     路
+  street   街
+  avenue   大道
+  
+  # 英语中使用并没有那么严谨
+  ```
+
+### ð		咬舌，区分 /z/
+
+- that      /ðæt/       那个
+  - 指示代词  他 她 它
+  - those 那些
+- this     /ðɪs/         这个
+  - 指示代词
+  - these 这些
+- weather      /'weðə/   天气
+  - 外国人见面为什么要谈天气？ 
+
+### ʃ 		狮子音，声带不振动
+
+- shut      /ʃʌt/     关闭
+
+  ```
+  - close
+  - shut    与 close 都可以表示物理意义上的关闭，关上窗户。也可以表示抽象意义上的关闭，停业，关机 (shut down)
+  ```
+
+- she     /ʃi:/        他
+
+- cash   /kæʃ/     现金
+
+  ```
+  - cashier     收银台，收银员
+  - money     钱，（cash 是看得见摸得着的现金）
+  ```
+
+- dish    /dɪʃ/      碟，盘；一道菜
+
+  - what a dish!  秀色可餐（贬义，最好不要用）
+
+### ʒ		强烈振动，听起来洗那个“日”
+
+- usually       /'ju:ʒuəli/        通常地 90%
+
+  ```
+  - I usually go to work by car.
+  - often           经常 70% 80%
+  - always        总是  100% 
+  - seldom       偶尔 40% 50%
+  - hardly ever 几乎不 10% 20%
+  - never           从来不  0%
+  ```
+
+### tʃ		吃饭音，送气，不要噘嘴发音，记得感受“吃”的送气位置
+
+- church      /tʃɜːtʃ/     教堂
+
+  - go to church            去教堂做礼拜（强调做事）
+  - go to the church      去教堂那个地点
+
+- match       /mætʃ/    比赛
+
+  ```
+  - competition    代指所有的比赛，正式的词，正式的比赛
+  - race           田径比赛
+  - game           游戏，不太正式的比赛，范围较广
+  - match          通常指体育运动项目的比赛，隐含势均力敌意味，匹配
+  ```
+
+### dʒ		“只”或者“这”的前半部分音，不要拖音
+
+- judge       /dʒʌdʒ/         法官，判断
+  - Don't judge a book by its cover.      不要以貌取人
+- January  /ˈdʒænjuəri/    一月
+  - 拉丁文   Januarius
+  - Janus    /ˈdʒeinəs/     n. （古罗马的）两面神
+
+### ts		大呲花
+
+- Tsinghua University   清华大学
+
+- puts   /puts/     放置（第三人称单数形式）
+
+  ```shell
+  什么是第三人称单数形式？
+  人称：你，我，他，她，它，他们，她们，它们
+  you 2
+  I   1
+  he/she/it 3
+  we  1
+  they 3
+  
+  # 除了 You 和 I 都是第三人称
+  ```
+
+### dz		发音比/z/轻，短，声音小
+
+- words     /wə:dz/     词（复数）
+  - have a word  交谈
+  - have a words 吵架
+- rides       /raɪdz/       骑行（第三人称单数形式）
+  - I ride a bike.
+  - The monkey rides a bike.
+  - Lily rides a bike.
+
+
+
+作业：
+
+1.Tommy feeds som cats.
+
+2.Your dress looks beautiful.
+
+3.Some books belong to Lucy.
+
+4.She keeps herself away from me.
+
+5.My dog eats some apples.
