@@ -1739,3 +1739,151 @@ Be an angel and make me a cup of coffee.
 4.She keeps herself away from me.
 
 5.My dog eats some apples.
+
+
+
+# Day 34 复习日
+
+# Day35 作业日
+
+# Day36
+
+## tr
+
+- 发音结束 嘴巴 应该是张开的
+- tree             /triː/          n. 树；树状物；木料
+  - wood     木头
+  - forest     森林
+-  truck         /trʌk/         n. 卡车；手推车；交易
+  - car         小轿车
+  - van        卡车（用来运输货物或者人的卡车）
+  - truck      货车（用来运很重的货物）
+
+## dr
+
+- drum        /drʌm/       vt. 击鼓；大力争取
+
+  - drumlin   丘陵（冰川形成的）
+
+    ```
+    lin- 词根，表示小东西
+    ```
+
+- dress        /dres/        *n.* 连衣裙
+
+  - My own dresser（化妆师） will dress me on my wedding（婚礼）.
+
+作业：
+
+第三种正确
+
+
+
+
+
+# Day 37
+
+## h
+
+- hen          /hen/          *n.* 母鸡
+  - cock          *n.* 公鸡
+  - chicken pox      水痘
+- hand       /hænd/        n. 手，手艺；指针；插手；帮助
+  - hand in hand  手拉手
+  - hand on 动手
+  - face to face 面对面
+  - back to back 背靠背
+  - case by base 按实际案例分析
+
+## r
+
+> 如果是卷舌标志，一定是跟在 元音 后面
+
+- rat           /ræt/       n. 鼠；卑鄙小人，叛徒
+  - mouse （比较可爱的老鼠）
+- grass     /grɑːs/      n. 草；草地，草坪
+  - grassland  草地
+
+
+
+作业：
+
+1.我们面对面坐着
+
+We sit  face to face
+
+2.我看到Lucy和彭于晏手拉手站着
+
+I saw Luch and PYY standing hand by hand
+
+
+
+# Day 38
+
+## m 闭口撒娇音
+
+- comb            /kəʊm/       *vt. & vi.* 梳理    *n.* 梳子
+
+  ```
+  nail /neɪl/ clippers 			指甲钳
+  nail brush           			指甲刷
+  comb                 			梳子
+  toothbrush           			牙刷
+  haribrush            			发刷
+  shaver（ electric razor）  电动剃须刀
+  toothpaste 								牙膏
+  tweezers 									镊子
+  ```
+
+- money          /'mʌnɪ/        n. 钱；货币；财富
+
+  - bear money 零花钱
+
+## n 开口撒娇音
+
+- noodles      /'nu:dl/      n. 面条，挂面（noodle的复数形式）
+- sign            /saɪn/        n. 符号；记号；迹象；手势
+
+## ŋ
+
+- ink       /iŋk/      *n.* 墨水, 油墨
+  - inky   墨色的
+- king    /kɪŋ/      *n.* 君主，国王
+  - the United Kingdom  大不列颠及爱尔兰王国，英国
+
+作业：
+
+第二种正确
+
+# Day 39
+
+## I “了”(不要卷舌，舌头顶住上牙齿的后面不要动)
+
+- lion         /'laɪən/         n. 狮子；名人；勇猛的人；社交场合的名流
+  - Leo         	狮子座
+  - Leonis     	（拉丁文）狮子
+- ball         /bɔ:l/            *n.* 球, 球状物
+  - My workmate is sick, so I must carry the ball
+
+## w  “我” 不要咬嘴唇，口型是⭕️
+
+- watch           /wɒtʃ/        vt. 注视；观察；看守；警戒   n. 手表；守护；监视；值班人
+  - clock   钟表
+  - You watch the clock all day in your office.  你一整天都无心工作
+- wheel           /wiːl/          *n.* 轮子, 车轮, 机轮
+
+## j
+
+- universe      /'juːnɪvɜːs/        n. 宇宙；世界；领域
+  - sky  天空
+- yard            /jɑːd/                 *n.* 院子
+  - I give you an inch and you will take a yard.  得寸进尺
+
+作业：
+
+第二种正确
+
+# Day 40 (Day36-39词汇直播课)
+
+
+
