@@ -1885,5 +1885,107 @@ I saw Luch and PYY standing hand by hand
 
 # Day 40 (Day36-39词汇直播课)
 
+### Tr  "戳" 的口型送气，声带不振动
 
+- trouble       /'trʌb(ə)l/       麻烦
+  - Don't trouble trouble until trouble troubles you.     不要麻烦麻烦直到麻烦来麻烦你
+- try             /traɪ/               vt. 试验；审判；考验；试图，努力
+  - try your luck         碰运气
+- street        /stri:t/         街道
+
+### dr  "浊" 的口型送气，身带强烈振动
+
+- drive         /draɪv/        驾驶
+  - She drivers me bananas. 
+- dream      /driːm/         *n.* 梦
+  - I dream a dream.
+
+### h   哈气音
+
+- hello      /hə'ləʊ/      语气词，错误发音：哈喽
+
+  > 本意没有 你好 的意思，就是一个语气词，Hi 也是
+
+  - A: I iheard that PYY broke up with Lucy!
+  - B: Hello! What are you talking! Are you mad!
+
+- hit         /hɪt/             打；击  
+
+  - A: Which part of Lucy does PYY like best?
+  - B:Her beauty.
+  - A: You hit home!     一语中的  get the point
+
+  > who i**s h**e ?
+
+### r   注意区分卷舌标志，美音 
+
+- roast      /rəʊst/       烤
+  - Beijing roast duck
+- read     /riːd/    阅读
+  - reader      读者
+- card    /kɑːd/    卡片
+
+### m     闭口撒娇音，name
+
+- summer       /'sʌmə/         夏天
+  - spring 春天
+  -  autumn 秋天  Fall 秋天
+  - winter 冬天
+- mum           /mʌm/            妈妈（非正式）
+  - mother    母亲（正式）
+  - 非正式：mom  mommy  mummy  mama
+
+### n    开口撒娇音，rin en
+
+- dinner       /'dɪnə/      正餐
+  - dining room    餐厅
+  - supper      晚餐
+  - breakfast  早餐
+  - lunch        午餐
+- design      /dɪ'zaɪn/    设计
+
+### ŋ    开口撒娇音（更靠后）ring eng
+
+- monkey       /'mʌŋkɪ/        猴子，淘气鬼，小淘气，顽童
+  - Four little rug rats  四只小地毯鼠
+- song           /sɒŋ/              歌曲
+  - sing a song 
+
+### l     1.不是“了”，是前半部分， 2.舌尖，顶住上牙齿 发 "o" wheel 连在一起
+
+- lemon     /'lemən/     柠檬
+  - 引申义：次品，质量不好的
+- golf         /gɒlf/         高尔夫
+- all            /ɔːl/           *adj.* 一切的，所有的
+
+### w   听起来像 “我” 一样   vv -> double u u v
+
+- window     /'wɪndəʊ/       窗户
+
+  - When god closes a door, he opens a window.    当上帝给你关上一扇门的时候，会给你打开一扇窗
+
+- white        /waɪt/              白色
+
+  ```
+  wh- h 不发音
+  kn- k 不发音
+  -e  e 不发音
+  -gn g 不发音
+  gue ue 不发音
+  ```
+
+  
+
+### j    不是鸡    yard  /ja:(r)d/
+
+- yoyo      /'jəujəu/       悠悠球
+- unit        /'juːnɪt/        单元
+
+>Only two things are infinite, the universe and human stupidity, and I'm not sure about the former （前者，the latter 后者）. ----- Einstein
+>
+>只有两件事是无限的，宇宙和人类的愚蠢，我不确定前者。 
+
+
+
+## 
 
