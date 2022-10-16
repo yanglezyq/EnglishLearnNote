@@ -1987,5 +1987,44 @@ I saw Luch and PYY standing hand by hand
 
 
 
-## 
+# Day 41 复习日
+
+# Day 42 作业日
+
+# Day 43 发音练习
+
+- /e/  左右张嘴巴
+- /æ/ 上下张嘴巴
+- /ɔı/  voice
+- /eı/ eight
+- /aı/  sky
+- /ıə/  ear
+
+# Day 44 语音部分复习课
+
+# Day45
+
+/ð/ mother father
+
+/v/  vase   five
+
+/j/  yard
+
+/ʒ/  pleasure  ri
+
+/dr/ dress
+
+/w/ watch  我 口型圆的
+
+
+
+# Day 46 语音部分复习课
+
+# Day 47 
+
+# Day 48
+
+# Day 49
+
+# Day 50 基础级 基础应用部分
 
