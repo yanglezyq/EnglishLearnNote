@@ -2026,5 +2026,190 @@ I saw Luch and PYY standing hand by hand
 
 # Day 49
 
-# Day 50 基础级 基础应用部分
+# 基础级 基础应用部分
+
+# Day 50  Warming up
+
+> 语言用来做什么？
+>
+> 交流 = 听得清 + 听得懂
+>
+> 思维的转换！
+
+- He never made **it** home at all last night.
+
+  - 他昨晚根本没回家
+
+- You never made it love me at all.
+
+  - 你根本不爱我
+
+  
+
+  ### Unit 1 My name is Joshua Brown.
+
+  | 词性                | 例词                            |
+  | ------------------- | ------------------------------- |
+  | 名词 noun           | car cat feet                    |
+  | 动词 verb           | jump run hit                    |
+  | 形容词 adjective    | big tall beautiful / XXX的      |
+  | 副词 adverb         | quickly rudely politely / XXX地 |
+  | 代词 pronoun        | it this we                      |
+  | 介词 preposition    | on in for                       |
+  | 冠词 article        | a an the                        |
+  | 数词 numberal       | one two first                   |
+  | 连词 conjunction    | beacause so but                 |
+  | 感叹词 interjection | hello yeah oh                   |
+
+  
+
+作业：
+
+名词 noun : bike dog
+
+动词 verb: push pull
+
+形容词 adjective: ugly  shy 
+
+副词 adverb: rudely gently
+
+代词 pronoun： he she
+
+介词 preposition: of over
+
+冠词 article： a an
+
+数词 numberal: third four
+
+连词 conjunction: otherwise however
+
+感叹词 interjection ： Ah Come well
+
+# Day 51 Unit 1 Conversation
+
+#### First name  / Given name   名
+
+#### Last name / Family name    姓氏
+
+#### Steven Curry  斯蒂芬库里
+
+名字在前， 姓在后
+
+
+
+作业：
+
+1.Last name: 彭    Family name: 彭
+
+2.问的是内容，应该降调
+
+# Day 52 Unit 1 Grammar Focus
+
+## 动词是老大
+
+我：动作的发起者
+
+打：动作
+
+你：动作的接受者
+
+- I hit you
+
+#### Lucy 很 漂亮
+
+Luch is very beautiful. 
+
+## 连系动词，be动词 : `am`` is`` are`
+
+- ##### is : 搭配单数，`一个人`，`一个物体`
+
+- #### are ： 搭配`复数` `你` `你们`
+
+- #### am : 搭配 `I`  , I am a boy
+
+## 英语句子中什么都能省，唯独动词不能省略。
+
+
+
+作业：
+
+- I am a boy
+- The girl is Amy's sister
+- The dog is tall and fat
+- The man is my teacher
+- Mike and Lily are in the same class
+- The knife and fork are on the desk
+- My sister's name is Nancy
+- The girl is in the room.
+
+
+
+I am a girl. My name is Mary. I am 9 years old. Here are my family picture. Look! These are my parents and those are my grandparents. This boy is my brother. He is 12 years old now. That is my cat,Mimi. It is very lovely.
+
+# Day 53 Word Power
+
+- Miss  （single females）
+- Ms.     (single or married females)
+- Mrs.    (married females)
+- Mr.      (single or married males)
+
+
+
+- Your
+- his
+- her
+- my
+- her
+
+- What's = What is
+
+| 发起者格式 | I    | you  | he   | she  | it   | we   | they |
+| ---------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 接受者格式 | me   | you  | him  | her  | it   | us   | them |
+
+| 英文字母 | 音标   | 英文字母 | 音标   | 英文字母 | 英标       | 英文字母 | 英标   |
+| -------- | ------ | -------- | ------ | -------- | ---------- | -------- | ------ |
+| A        | /eɪ/   | B        | /biː/  | C        | /siː/      | D        | /diː/  |
+| E        | /iː/   | F        | /ef/   | G        | /dʒiː/     | H        | /eit∫/ |
+| I        | /aɪ/   | J        | /dʒeɪ/ | K        | /keɪ/      | L        | /el/   |
+| M        | /em/   | N        | /en/   | O        | /əʊ/       | P        | /piː/  |
+| Q        | /kjuː/ | R        | /ɑː/   | S        | /es/       | T        | /tiː/  |
+| U        | /juː/  | V        | /viː/  | W        | /′d∧bljuː/ | X        | /eks/  |
+| Y        | /waɪ/  | Z        | /ziː/  |          |            |          |        |
+
+作业：
+
+1.His
+
+2.her
+
+3.you
+
+4.I
+
+5.you
+
+
+
+1.I
+
+2.me
+
+3.He
+
+4.His
+
+5.We  him
+
+6.we
+
+7.They
+
+8.my
+
+9.His
+
+10.Our
+
+# Da 54 Unit 1 直播课
 
