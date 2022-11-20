@@ -582,5 +582,51 @@ What is this? It's a car.
 
 # Day 68 直播课
 
+### 名词的单复数
+
+> 只有名词 才有 单复数
+
+```markdown
+s = /z/    `浊辅音-/z/`
+flash drive      flash drives
+cell phone       cell phones
+pencil           pencils
 
 
+s = /s/    `清辅音-/s/sss`
+desk             desks
+laptop           laptops
+backpack         backpacks   n. (指登山者、步行者使用或背小孩时使用的)背包, (有轻金属框的)箱形背包
+
+(e)s = /Iz/
+tablet case.    tablet cases
+class           classes
+hairbrush       hairbrushes
+
+
+`元音-/z/ bees`
+`t结尾 - /ts/`
+`d结尾 - /dz/`
+```
+
+>动词的发起者如果是 第三人 且是一个，那么动词要变成一个特殊的格式，我们称之为第三人称单数格式
+>
+>I eat
+>
+>He eats
+
+```
+Brandon: 		Excuse me. What are these?
+Christina: 	They're flash drivers. 闪存驱动器
+Brandon:		Oh,they're cool.And what's this?
+Christina:	It's a tablet.
+Brandon:		A tablet? Really? Wow! It's great!
+Christina:	Yes, it is. It's a new model.
+Brandon:		Huh...and what's this?
+Christina:	It's a tablet case. 平板电脑外壳
+Brandon: 		Oh,It's...interesting...and different.
+```
+
+# Day 69 复习日
+
+# Day 70 作业日
