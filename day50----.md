@@ -630,3 +630,29 @@ Brandon: 		Oh,It's...interesting...and different.
 # Day 69 复习日
 
 # Day 70 作业日
+
+# Day 71 Unit4 Where are my car keys?
+
+## 英文中的斜体
+
+1. #### 用户强调
+
+   ###### That *is* my wallat!
+
+2. #### 用户文中提到的其他独立作品的标题
+
+   ###### Lucy reads *Times* with Lily.
+
+3. #### 用户交通工具的名字
+
+   ###### China's first Mars exploration mission *使命* named "*Tianwen-1*"
+
+4. #### 非英语单词
+
+   ###### *狗狗* meas "dog" is Chinese.
+
+   *Tiamo* is "I love you" in Italian.
+
+作业：
+
+The Economist
