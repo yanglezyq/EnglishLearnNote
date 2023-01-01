@@ -656,3 +656,237 @@ Brandon: 		Oh,It's...interesting...and different.
 作业：
 
 The Economist
+
+# Day 72 Word Power
+
+- China's    有从属关系， 中国的博物馆
+
+- Chinese    强调内在属性， 在大英博物馆的中古瓷器
+
+- maybe                /ˈmeɪbi/             也许        adv.
+
+- restaurant          /ˈrest(ə)rɒnt/      餐馆
+
+  ```
+  From 法语， restaurant 肉汤
+  ```
+
+  
+
+- welcome           /'welkəm/          欢迎，迎接
+
+  ```
+  come  /kʌm/ 
+  
+  You are welcome （很少用这种方式，比较正式）
+  常用用法： You bet.  No worried.
+  ```
+
+  
+
+- wallet                /'wɒlɪt/              钱夹
+
+  ```
+  purse 钱包
+  handbag 手提包
+  ```
+
+  
+
+- pocket              /'pɒkɪt/              口袋
+  - pocket money    零钱
+  - pocket knife       折叠刀，便携刀
+
+- minute              /'mɪnɪt/             分钟
+
+  ```
+  wait a minute 等一会儿
+  second 秒
+  monment 一段时间
+  
+  时间长度比较：  monment > minute > second
+  ```
+
+  
+
+- You bet. No worried   小事一桩 用于回答 Thank you 
+
+# Day 73 Conversation
+
+```markdown
+Lauren:	Oh, no! Where are my car keys?
+Matt: 	I don't know,Are they in your purse?
+Lauren: No, they're not.
+Matt:		Maybe they're on the table in the restaurant.
+Server:	Excuse me. Are these your keys?
+Lauren: Yes, they are.Thank you!
+Server:	You're welcome!And is this your wallet?
+Lauren: Hmm.No,it's not.Where's your wallet.Mattew?
+Matt:		It's my pocket...Wait a minute! That is my wallet!
+```
+
+```
+把内容后面的 都扔掉，也是一个完整的句子：
+I will go shopping with Lucy this Saturday.
+```
+
+作业：
+
+I often walk my dog /  with my boyfriend.Peng Yuyan, after supper in the evening and take a shower before go to bed.
+
+# Day 74 Grammer  特殊疑问句
+
+## 特殊疑问词
+
+### What
+
+- 什么 东西/事件
+
+### Where
+
+- 哪里 地点
+
+### When
+
+- 什么时候 时间段
+- What time 时间点
+
+### Who
+
+- 谁 人/不知道是不是人 物
+
+### Whose
+
+- 谁的 从属关系
+
+### Which
+
+- 哪一个 整体中的部分
+
+### Why
+
+- 为什么 原因
+
+### How
+
+- 程度
+- 通过...方法
+
+
+
+```
+Tom is a teacher.
+- What is Tom?
+- Which field is Tom in?
+
+Boys like soccer.
+- What sport do boys like?
+
+# 如果 动词位置 变化了，就需要借用 do 
+Tommy eats apples.
+- What does Tommy eat?
+- Who eats apples?
+
+They are from China.
+- Where are they from?
+- Who is from China?
+
+My English class is at 8.
+- What time is your English class?
+
+His name sounds great.
+- How does his name sound?
+```
+
+作业：
+
+一、选择正确的单词填空
+
+(who, where, when)
+
+1.Who is that pretty girl? She is my sister.
+
+2.Where are Jack and Tom? They are behind you.
+
+3.When do you go to school? I go to school in the morning.
+
+4.Who has a beautiful flower? John has a beautiful flower.
+
+5.Who are they? They are my parents.
+
+6.Where is my mother? She is in the living room.
+
+7.Where are you going? We are going to the school.
+
+8.When do Jim and Wendy play ball? They play ball in the afternoon.
+
+9.Where does he jog? He jogs in the park.
+
+10. Where are you from? I'm from China.
+
+二、对划线部分进行提问
+
+1.They buy a new bike.
+
+What do they buy?
+
+
+
+2.She is a nurse?
+
+- What filed is she in?
+
+3.The girl is my cousin.
+
+- Who is the girl?
+
+4.He reads the book
+
+- What does he read?
+
+5.She often goes to the library with Lucy.
+
+- Who does she often go to the library with?
+
+6.Julia often talks with me after class
+
+- Who does often talk with me after class?
+
+7.There are 50 students in our class.
+
+- Home many students are there in our class?
+
+8.They com from Hubei.
+
+- Where are they come from?
+
+9.Tim goes to school late becaust he gets up late.
+
+- Why does Tim go to school late?
+
+10.It is a truck.
+
+- What is it?
+
+11.Li Hui goes to school by bus.
+
+- Which transport does Li Hui go to school
+
+12.Kate plays baskketball in the evening...
+
+- What does Kate play in the evening?
+
+13.They meet at 7:30 in the morning.
+
+- What time do they meet?
+
+14.The movie is wonderful.
+
+- How is the movie?
+
+15.Lucy's car is red.
+
+- Whose car is red.
+
+# Day 75 Pronunciation  直播课
+
